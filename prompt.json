@@ -1,0 +1,90 @@
+{
+  "name": "K. Ranjith Kumar Reddy",
+  "contact_information": {
+    "address": "Gadwal, Telangana 509125",
+    "phone": "+91 7989766604",
+    "email": "kallaranjithreddy19@gmail.com",
+    "linkedin": "www.linkedin.com/Ranjithreddy19",
+    "github": "github.com/Ranjithreddy16"
+  },
+  "training": {
+    "organization": "Cipher School",
+    "duration": "June 2023 - July 2023",
+    "description": [
+      "Acquired proficiency in Java-based Data Structures and Algorithms.",
+      "Applied DSA concepts to develop problem-solving skills.",
+      "Designed and implemented a Tic Tac Toe game project in Java."
+    ]
+  },
+  "projects": [
+    {
+      "name": "IPL Score Prediction",
+      "duration": "Feb 2024 – April 2024",
+      "objective": "Forecast final scores of teams in IPL cricket matches.",
+      "description": "Leveraged statistical and predictive analysis techniques.",
+      "tech_stack": ["Python", "Pandas", "NumPy", "Sklearn"]
+    },
+    {
+      "name": "Mobile Prices Analysis",
+      "duration": "Aug 2023 – Nov 2023",
+      "description": "Performed Exploratory Data Analysis on mobile phone market.",
+      "insights": [
+        "High positive correlation between RAM size and phone prices.",
+        "Weak positive correlation between camera resolutions."
+      ],
+      "tech_stack": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"]
+    },
+    {
+      "name": "App Switcher",
+      "duration": "Feb 2023 – May 2023",
+      "description": "Developed a Python application with a user-friendly interface for managing multiple applications.",
+      "tech_stack": ["Python", "Tkinter"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Structures and Algorithms",
+      "issuer": "Cipher School",
+      "date": "July 2023"
+    },
+    {
+      "name": "Machine Learning",
+      "issuer": "Simplilearn",
+      "date": "May 2023"
+    },
+    {
+      "name": "Python",
+      "issuer": "Simplilearn",
+      "date": "Feb 2023"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Python"],
+    "data_management": ["MySQL"],
+    "tools": ["Tableau", "Power BI"],
+    "libraries": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Sklearn"]
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Jalandhar, Punjab",
+      "degree": "Computer Science and Engineering",
+      "cgpa": 6.17,
+      "duration": "Since August 2021"
+    },
+    {
+      "institution": "Shraddha Junior College",
+      "location": "Mahabubnagar, Telangana",
+      "degree": "Intermediate",
+      "percentage": 76,
+      "duration": "2019 – 2021"
+    },
+    {
+      "institution": "Montessori Traditions High School",
+      "location": "Gadwal, Telangana",
+      "degree": "10th",
+      "cgpa": 6.8,
+      "duration": "2018 – 2019"
+    }
+  ]
+}
